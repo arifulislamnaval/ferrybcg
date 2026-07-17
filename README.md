@@ -1,7 +1,7 @@
 # 🚤 High-Speed Ferry Boat (HSFB)
 
 <p align="center">
-  <img src="./ferry.jpg" alt="High-Speed Ferry Boat" width="100%">
+  <img src="./ferryboat.jpeg" alt="High-Speed Ferry Boat" width="100%">
 </p>
 
 <h2 align="center">02 × High-Speed Ferry Boat (HSFB)</h2>
