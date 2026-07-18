@@ -8,7 +8,7 @@
 
 <p align="center">
 <b>Bangladesh Coast Guard (BCG)</b><br>
-Naval Architect | Design Review | Design Management | Structural Detailed Design | Stability Analysis | Class Compliance
+Naval Architect | Engineering Review | Stability Analysis | Class Compliance
 </p>
 
 <p align="center">
@@ -19,32 +19,28 @@ Naval Architect | Design Review | Design Management | Structural Detailed Design
 
 ---
 
-# 📌 Project Summary
+## 📌 Project Summary
 
-Successfully delivered **02 High-Speed Ferry Boats** for the **Bangladesh Coast Guard (BCG)** in **2022**, enhancing the Coast Guard's capability for rapid personnel transportation, operational logistics, and maritime support.
+Successfully contributed to the delivery of **02 High-Speed Ferry Boats** for the **Bangladesh Coast Guard** in **2022**. These marine-grade aluminium vessels were designed for **rapid personnel transportation, operational logistics, coastal deployment, and limited search and rescue operations**, providing reliable service in rivers, ports, coastal waters, and shallow operating areas.
 
-The **marine-grade aluminum high-speed vessels** were specifically designed to transport Coast Guard personnel between operational bases, stations, and remote coastal locations. The boats provide excellent sea-keeping characteristics and are capable of operating efficiently in **rivers, ports, outer anchorages, coastal waters, and shallow areas near beaches**, ensuring rapid deployment and operational flexibility.
-
-Besides personnel transportation, the vessels are capable of supporting **limited Search and Rescue (SAR)** operations and **patrol duties**, making them valuable multi-role assets for the Bangladesh Coast Guard.
-
-As **Naval Architect**, I contributed to **design review, design management, structural detailed design, hydrostatic and stability analysis, engineering coordination, construction support, and technical compliance**, ensuring successful delivery in accordance with contractual requirements and applicable classification standards.
+My primary responsibilities included **engineering review, stability analysis, design verification, and classification compliance**, ensuring the vessels satisfied contractual requirements, operational objectives, and applicable classification standards throughout the engineering and construction phases.
 
 | **Client** | Bangladesh Coast Guard (BCG) |
 |:-----------|:-----------------------------|
 | **Vessel Type** | High-Speed Ferry Boat |
 | **Quantity** | 02 Boats |
-| **Hull Material** | Marine Grade Aluminum |
+| **Hull Material** | Marine Grade Aluminium |
 | **Role** | Naval Architect |
-| **Scope** | Design Review • Design Management • Structural Detailed Design • Stability Analysis • Engineering Coordination • Construction Support |
+| **Scope** | Engineering Review • Stability Analysis • Design Verification • Class Compliance • Construction Support |
 | **Delivery** | 2022 |
 
 ---
 
-# 📐 Principal Particulars
+## 📐 Principal Particulars
 
 | Parameter | Value |
 |:----------|------:|
-| Hull Material | **Marine Grade Aluminum** |
+| Hull Material | **Marine Grade Aluminium** |
 | Length Overall (LOA) | **20.50 m** |
 | Breadth | **6.00 m** |
 | Draught | **Approx. 1.20 m** |
@@ -52,56 +48,53 @@ As **Naval Architect**, I contributed to **design review, design management, str
 | Standard Load Displacement | **Approx. 51.46 tonnes** |
 | Light Load Displacement | **Approx. 40.00 tonnes** |
 | Maximum Speed | **18 knots** |
-| Maximum Continuous Speed | **16 knots** |
+| Continuous Speed | **16 knots** |
 
 ---
 
-# 👨‍💼 Engineering Contributions
+## 👨‍💼 Engineering Contributions
 
-- Conducted comprehensive **design review** to ensure compliance with contractual specifications and operational requirements.
-- Managed multidisciplinary engineering activities throughout the project lifecycle.
-- Prepared and reviewed **structural detailed drawings** for marine-grade aluminum hull construction.
-- Performed **hydrostatic calculations, intact stability analysis, weight estimation, and loading condition assessments**.
-- Reviewed hull structural arrangements, machinery foundations, outfitting layouts, and fabrication documentation.
-- Coordinated engineering interfaces among production, procurement, client representatives, and equipment suppliers.
-- Supported construction by resolving technical issues, implementing engineering modifications, and ensuring production quality.
-- Participated in inspections, harbour acceptance tests (HAT), sea trials (SAT), commissioning, and successful delivery of both vessels.
-- Ensured compliance with contractual requirements, quality standards, and applicable classification society rules throughout construction.
+- Performed comprehensive **engineering review** against contractual specifications, operational requirements, and client technical standards.
+- Verified compliance with applicable **classification society rules**, statutory regulations, and Bangladesh Coast Guard requirements.
+- Conducted **hydrostatic calculations, intact stability analysis, weight estimation, and loading condition assessments**.
+- Reviewed hull structure, machinery arrangements, outfitting layouts, and production documentation to ensure design integrity and constructability.
+- Evaluated engineering revisions and provided technical recommendations to improve production readiness and operational performance.
+- Coordinated technical discussions with designers, production teams, client representatives, equipment suppliers, and classification surveyors.
+- Supported construction, inspections, harbour acceptance tests (HAT), sea trials (SAT), commissioning, and final delivery.
+- Assisted in resolving technical issues throughout fabrication while maintaining compliance with quality, schedule, and contractual requirements.
 
 ---
 
-# ⭐ Operational Capabilities
+## ⭐ Operational Capabilities
 
 - High-Speed Personnel Transportation
-- Ferrying Coast Guard Personnel
 - Operational Logistics Support
-- Inland Waterway Operations
 - Coastal Operations
-- Port & Outer Anchorage Operations
+- Inland Waterway Operations
+- Port & Anchorage Operations
 - Limited Search & Rescue (SAR)
-- Limited Patrol Duties
 - Rapid Response Deployment
 - Shallow Water Operations
 
 ---
 
-# ⭐ Technical Expertise Demonstrated
+## ⭐ Technical Expertise Demonstrated
 
-**High-Speed Aluminum Craft Design • Design Review • Design Management • Structural Detailed Design • Hydrostatics & Stability • Weight Estimation • Structural Engineering • Engineering Coordination • Production Engineering • Construction Support • Technical Documentation • Quality Assurance • Harbour Acceptance Tests (HAT) • Sea Trials (SAT) • Commissioning**
-
----
-
-# 💻 Engineering Software
-
-**AVEVA Marine • AutoCAD • Maxsurf (Hydrostatics & Stability) • Rhino3D • ANSYS • FastNEST**
+**Engineering Review • Design Verification • Hydrostatics & Stability • Weight Estimation • Classification Compliance • Technical Documentation • Construction Support • Harbour Acceptance Tests (HAT) • Sea Trials (SAT) • Commissioning**
 
 ---
 
-# 📬 Contact
+## 💻 Engineering Software
+
+**Maxsurf • AutoCAD • AVEVA Marine • Rhino3D • ANSYS**
+
+---
+
+## 📬 Contact
 
 **Md. Ariful Islam**
 
-**Senior Naval Architect | Ship Design | Structural Engineering | Stability Analysis | Project Management | Classification Compliance**
+**Senior Naval Architect & Marine Engineer**
 
 📧 **ariful.buet1985@gmail.com**
 
@@ -110,5 +103,5 @@ As **Naval Architect**, I contributed to **design review, design management, str
 ---
 
 <p align="center">
-<b>Delivering Safe, High-Performance, and Mission-Ready Maritime Engineering Solutions.</b>
+<b>Delivering Safe, Class-Compliant, and Operationally Ready Marine Engineering Solutions.</b>
 </p>
