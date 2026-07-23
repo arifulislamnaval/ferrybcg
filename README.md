@@ -44,11 +44,8 @@ My primary responsibilities included **engineering review, stability analysis, d
 | Length Overall (LOA) | **20.50 m** |
 | Breadth | **6.00 m** |
 | Draught | **Approx. 1.20 m** |
-| Full Load Displacement | **Approx. 54.14 tonnes** |
-| Standard Load Displacement | **Approx. 51.46 tonnes** |
-| Light Load Displacement | **Approx. 40.00 tonnes** |
 | Maximum Speed | **18 knots** |
-| Continuous Speed | **16 knots** |
+
 
 ---
 
