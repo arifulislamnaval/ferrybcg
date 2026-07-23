@@ -43,7 +43,7 @@ My primary responsibilities included **engineering review, stability analysis, d
 | Hull Material | **Marine Grade Aluminium** |
 | Length Overall (LOA) | **20.50 m** |
 | Breadth | **6.00 m** |
-| Draught | **Approx. 1.20 m** |
+| Draught | **1.20 m** |
 | Maximum Speed | **18 knots** |
 
 
